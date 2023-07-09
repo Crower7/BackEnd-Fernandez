@@ -1,0 +1,12 @@
+{
+  "name": "BackEnd_New_ticher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MostrarLista.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
